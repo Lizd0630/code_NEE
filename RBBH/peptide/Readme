@@ -1,0 +1,13 @@
+This folder contains the annoatated peptide sequences of 8 chordate species.
+After removing entries with shorter than 30 amino acids, the longest peptide sequence for each gene was selected and used to identify orthologs between different species.
+
+Table: Reference genomes and peptide annotation files used
+Species, Original peptide sequences
+M. musculus, ensembl v72 (GRCm38) pep.all.fa
+G. gallus, ensembl v72 (Galgal4) pep.fall.fa
+P. sinensis, ensembl v72 (PelSin_1.0) pep.all.fa
+X. tropicalis, ensembl v72 (JGI_4.2) pep.all.fa
+X. laevis, Xl_ver.EXPANDE
+D. rerio	ensembl v72 (Zv9), ensembl v72 (Zv9) pep.all.fa
+C. intestinalis, Ghost KHgene 2013 (KH.KHGene.2013.Longest.protein.zip)
+B. floridae, Bf_ver.EXPANDE
