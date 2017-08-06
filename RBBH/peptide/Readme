@@ -4,11 +4,11 @@ After removing entries with shorter than 30 amino acids, the longest peptide seq
 
 Table: Reference genomes and peptide annotation files used
 Species, Original peptide sequences
-M. musculus, ensembl v72 (GRCm38) pep.all.fa
-G. gallus, ensembl v72 (Galgal4) pep.fall.fa
-P. sinensis, ensembl v72 (PelSin_1.0) pep.all.fa
-X. tropicalis, ensembl v72 (JGI_4.2) pep.all.fa
-X. laevis, Xl_ver.EXPANDE
-D. rerio, ensembl v72 (Zv9) pep.all.fa
-C. intestinalis, Ghost KHgene 2013 (KH.KHGene.2013.Longest.protein.zip)
-B. floridae, Bf_ver.EXPANDE
+M. musculus(Mm), ensembl v72 (GRCm38) pep.all.fa
+G. gallus(Gg), ensembl v72 (Galgal4) pep.fall.fa
+P. sinensis(Ps), ensembl v72 (PelSin_1.0) pep.all.fa
+X. tropicalis(Xt), ensembl v72 (JGI_4.2) pep.all.fa
+X. laevis(Xl), Xl_ver.EXPANDE
+D. rerio(Dr), ensembl v72 (Zv9) pep.all.fa
+C. intestinalis(Ci), Ghost KHgene 2013 (KH.KHGene.2013.Longest.protein.zip)
+B. floridae(Bf), Bf_ver.EXPANDE
