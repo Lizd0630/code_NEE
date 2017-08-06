@@ -18,7 +18,6 @@ foreach my $file(@all_file)
         {
             chomp $_;
             my ($mouse_id,$other_id)=(split("\t",$_))[0,1];
-            $other_id=~s/K//;
             $mouse{$mouse_id}{$species2}=$other_id;
         }
     }
@@ -31,7 +30,6 @@ foreach my $file(@all_file)
         {
             chomp $_;
             my ($mouse_id,$other_id)=(split("\t",$_))[0,1];
-            $other_id=~s/K//;
             my @id;
             push(@id,$mouse_id);
             push(@id,$other_id);
