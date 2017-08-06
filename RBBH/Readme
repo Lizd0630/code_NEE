@@ -1,0 +1,5 @@
+1. Please install ncbi-blast-2.2.28+ and add makeblastdb and blastp to your PATH
+2. The peptide sequences of 8 chordate species (Mm, Ps, Gg, Xt, Xl, Dr, Ci and Bf) were in ./peptide folder, Please uncompress those peptide sequences in ./peptide folder using unzip or gunzip
+3. To obtain 1:1 orthologs of 8 chordate species, run step1_run_blastp_sorting.pl and step2_RBBH_8-species.pl sequentially. The folder 'peptide' needs to be in the same folder of these two scripts.
+4. To obtain 1:1 orthologs of 6 vertebrate species (Mm, Ps, Gg, Xt, Xl, Dr), run step1_run_blastp_sorting.pl and step2_RBBH_6-species.pl sequentially. The folder 'peptide' needs to be in the same folder of these two scripts.
+
